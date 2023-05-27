@@ -1,3 +1,9 @@
+###
+
+<p align="center">
+  <img src="https://github.com/HusnainZee/CleanSweep-CloudyBoys-EcoJam23/blob/main/CleanSweep%20-%20Cloudy%20Boys%20-%20Poster.png" alt="CleanSweep Poster" /> 
+</p>
+
 # CleanSweep-CloudyBoys-EcoJam23-UCP
 CleanSweep game is developed for UCP ECOJAM'23 by TEAM CLOUDY BOYS.
 
