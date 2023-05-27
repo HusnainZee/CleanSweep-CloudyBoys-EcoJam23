@@ -11,4 +11,4 @@ CleanSweep game is developed for UCP ECOJAM'23 by TEAM CLOUDY BOYS.
 
 **Progression**: `To complete the levels, the number of correctly segregated items should be greater than the number of wrongly segregated items. For each wrongly segregated item, time will be reduced by 2 seconds and it will be increased by 1 second for each correct item.` <br>
 
-**Video Link**: ` `
+**Video Link**: `https://www.dropbox.com/s/gjl89szts8ynr7h/CleanSweep%20-%20CloudyBoys.mp4?dl=0`
